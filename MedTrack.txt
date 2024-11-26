@@ -1,17 +1,44 @@
-MedTrack is a mobile application designed to assist chronic disease patients (e.g., hypertension, diabetes, or asthma) in managing their medications, monitoring vital signs, and adhering to their treatment plans. The app uses machine learning algorithms, like Decision Trees or Random Forests, to provide personalized health recommendations and predict potential health risks based on user data.
+MedTrack: Comprehensive Medication and Health Monitoring App
 
-Features:
-Medication Reminders: Timely notifications to take medications with dosage details.
+Description:
+MedTrack is a mobile application built to aid chronic disease patients in effectively managing their health. The app utilizes machine learning algorithms such as Decision Trees or Random Forests to analyze user data, provide personalized recommendations, predict potential health risks, and offer holistic care solutions tailored to individual needs.
 
-Symptom Tracking: Allow users to log symptoms and health data (e.g., blood pressure, glucose levels).
+Features
+Medication Reminders:
+ - Sends timely notifications to take medications.
+ - Includes dosage instructions and time-based reminders.
 
-Health Risk Prediction: Predict and alert users about possible health risks based on trends in their data.
+Symptom Tracking:
+ - Enables users to log daily symptoms and health data such as:
+ - Blood Pressure
+ - Blood Glucose Levels
+ - Respiratory Stats (for asthma patients).
 
-Report Generation: Generate monthly or weekly health reports to share with healthcare providers.
+Health Risk Prediction:
+ - Leverages machine learning to identify patterns in logged data.
+ - Provides early warnings for potential complications (e.g., hypoglycemia risks for diabetics).
 
-Diet and Exercise Tips: Provide suggestions to complement medical treatment.
+Report Generation:
+ - Generates weekly and monthly reports summarizing vital statistics, medication adherence, and risk factors.
+ - Reports are shareable with healthcare providers via email or print.
 
-Secure Data Storage: Store user health data securely using encryption.
+Diet and Exercise Tips:
+ - Includes a Food for Diabetes section with dietary suggestions, categorized into:
+ - Recommended foods: Whole grains, green leafy vegetables, lean proteins, etc.
+ - Foods to avoid: Sugary drinks, processed carbs, etc.
+ - Provides exercise regimens aligned with specific health conditions.
 
-Innovative Edge:
-Incorporate a machine learning model that learns user-specific patterns, offering tailored suggestions for medication adjustments, and warnings for potential complications.
+Secure Data Storage:
+ - Encrypts all user data using AES-256 encryption.
+ - Offers cloud backup and restoration functionality.
+
+Personalized Insights:
+- A built-in machine learning model that adapts to user-specific data patterns to:
+ - Suggest medication or lifestyle adjustments.
+ - -Warn about potential side effects or complications.
+
+Innovative Edge
+- The app stands out by integrating real-time machine learning models to:
+ - Personalize user recommendations.
+ - Anticipate and alert about emerging health risks.
+ - Adapt dynamically based on new data entries.
